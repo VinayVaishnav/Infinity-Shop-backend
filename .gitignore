@@ -10,7 +10,6 @@ skills-lock.json
 .agents/
 .cursor/
 
-.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
